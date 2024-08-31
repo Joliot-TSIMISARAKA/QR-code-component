@@ -1,17 +1,18 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-- [Author](#author)
+-   [Overview](#overview)
+    -   [Screenshot](#screenshot)
+    -   [Links](#links)
+-   [My process](#my-process)
+    -   [Built with](#built-with)
+    -   [What I learned](#what-i-learned)
+    -   [Continued development](#continued-development)
+-   [Author](#author)
+
 ## Overview
 
 ### Screenshot
@@ -20,21 +21,20 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/centered-qr-component-using-css-flexbox-PgadIIwYax)
-- Live Site URL: [Add live site URL here](https://qr-code-component-front-end-mentor-six.vercel.app/)
+-   Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/centered-qr-component-using-css-flexbox-PgadIIwYax)
+-   Live Site URL: [Add live site URL here](https://qr-code-component-front-end-mentor-six.vercel.app/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+-   Semantic HTML5 markup
+-   CSS custom properties
+-   Flexbox
 
 ### What I learned
 
--Center a single element within a body  
-
+-Center a single element within a body
 
 ```css
 body {
@@ -52,6 +52,5 @@ So I'm looking forward to another project that will make use of flexbox and grid
 
 ## Author
 
-- Frontend Mentor - [@Joliot-TSIMISARAKA](https://www.frontendmentor.io/profile/Joliot-TSIMISARAKA)
-- Twitter - [@JoliotSitraka](https://x.com/JoliotSitraka)
-
+-   Frontend Mentor - [@Joliot-TSIMISARAKA](https://www.frontendmentor.io/profile/Joliot-TSIMISARAKA)
+-   Twitter - [@JoliotSitraka](https://x.com/JoliotSitraka)
