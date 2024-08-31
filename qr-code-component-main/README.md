@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
--   [My solution in frontend mentor](https://www.frontendmentor.io/solutions/centered-qr-component-using-css-flexbox-PgadIIwYax)
--   [Live site on vercel](https://qr-code-component-front-end-mentor-six.vercel.app/)
+-   [My solution in frontend](https://www.frontendmentor.io/solutions/centered-qr-component-using-css-flexbox-PgadIIwYax])
+-   [Live Site URL](https://qr-code-component-front-end-mentor-six.vercel.app/)
 
 ## My process
 
